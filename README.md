@@ -20,6 +20,8 @@ A simple and responsive ToDo List application built using **HTML**, **CSS**, and
 
 ## Live Demo
 
+[Live Demo](#) (https://ashgalm.github.io/javascript-todo/)
+
 
 ## Screenshots
 
@@ -75,5 +77,3 @@ If you have any questions or suggestions, feel free to reach out:
 
 - LinkedIn: [Aeshah Qalmouz](https://www.linkedin.com/in/aeshah-qalmouz-946942206/)
 ```
-
-Make sure to replace `#` placeholders with the appropriate URLs for screenshots and live demo links if available.
